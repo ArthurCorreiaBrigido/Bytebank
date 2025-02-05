@@ -1,6 +1,6 @@
 # bytebank
 
-A new Flutter project.
+O projeto consiste em uma simulação de um aplicativo de um banco. Nele é possível realizar transações bancárias como uma transferência. Basta informar o número da conta e o valor monetário da transação.
 
 ## Getting Started
 
